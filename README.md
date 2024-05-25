@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishaan aka Nash
 - 👀 I’m interested in Machine Learning, Computer Vision, Deep Learning, NLP
-- 🌱 I’m currently learning Flutter and Natural Language Processing
+- 🌱 I’m currently learning Backend Development and Natural Language Processing
 - 💞️ I’m looking to collaborate on App development and Deep Learning
 - 📫 How to reach me E-mail: thanekar@usc.edu
 
